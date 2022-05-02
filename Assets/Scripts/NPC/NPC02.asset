@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5670082bdaa5b4b4caf63489071d366a, type: 3}
+  m_Name: NPC02
+  m_EditorClassIdentifier: 
+  name: NPC02
+  dialogue:
+  - Hey, what's up?
+  - I am doing alright.
+  - I am from California.
+  - See you later!
+  - Yupp!
+  - Only if you can win my heart...
+  playerDialogue:
+  - 'Not much, how about you? (leads to Challenge: Item Collection)'
+  - 'Where are you from? (leads to Challenge: Tag)'
+  - 'Goodbye! (leads to Challenge: Hide & Seek)'
+  - 'HAHA (leads to Challenge: Puzzle)'
+  - 'Can you help me? (leads to Challenge: Obstacle Course)'
