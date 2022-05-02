@@ -1,13 +1,13 @@
 # Team_Heartseekers_CS4455/CS6457
 
-Team: Heartseekers
-Game: Spark
+## Team: Heartseekers
+## Game: Spark
 
-<Start scene file> 
-CharacterCustomization
-
-<How to play>
-[BASIC] Customize your avatar using sliders (e.g., Skin Color, Hair style, Pants color etc.), then click “Create Character” when you are satisfied with your customizations. The user will navigate to the world where they can move around using WASD or arrow keys. In this world, users can meet other romance NPCs and try to talk to one of them. When users get closer to them, a conversational dialogue will appear. Use your mouse scroller to answer their questions. Based on the user’s choices it will lead the user to different challenges (new Unity Scenes, e.g., itemCollection, Tag, Hide & Seek, Puzzle). As the user successfully completes the challenge, a relationship strength (slider) with the NPC will increase. Users can press the “Backspace” key during challenges to go back to the world where they first meet their loved NPC. Users can reach out to other NPCs to start a conversation.
+<Start scene file>  
+CharacterCustomization  
+  
+<How to play>  
+[BASIC] Customize your avatar using sliders (e.g., Skin Color, Hair style, Pants color etc.), then click “Create Character” when you are satisfied with your customizations. The user will navigate to the world where they can move around using WASD or arrow keys. In this world, users can meet other romance NPCs and try to talk to one of them. When users get closer to them, a conversational dialogue will appear. Use your mouse scroller to answer their questions. Based on the user’s choices it will lead the user to different challenges (new Unity Scenes, e.g., itemCollection, Tag, Hide & Seek, Puzzle). As the user successfully completes the challenge, a relationship strength (slider) with the NPC will increase. Users can press the “Backspace” key during challenges to go back to the world where they first meet their loved NPC. Users can reach out to other NPCs to start a conversation.  
 
 [Challenge 01: ITEM COLLECTION GAMEPLAY] 
 When the user is loaded to the item collection challenge. You will see an inventory with items that the user needs to collect in the lower left of the screen. Start to find the items by moving around and colliding with the item. As the user collects the right objects, the inventory will be filled up indicating which ones the user has collected and which ones the user has yet to collect (grayed out). The relationship meter in the top right of the screen also fills up each time the right object is collected. When the user collects all the correct objects, the inventory is full and the relationship meter is maxed. 
